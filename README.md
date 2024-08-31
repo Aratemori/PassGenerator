@@ -1,2 +1,2 @@
 # Random Password Generator
-### Used: ` </h1string` and `random` 
+### Used: `string` and `random` 
